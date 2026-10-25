@@ -1,0 +1,2 @@
+Create an app using react which can be used to practice for the tests levels 1 through 8. Also make it possible to do a test.
+Make it easy to use. Use the docs/Berklee-Exam-Requirements to figure out what to test.
